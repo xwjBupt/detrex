@@ -138,3 +138,15 @@ dmypy.json
 
 # vscode
 .vscode/
+/ai/mnt/code/detrex/ouput_dirs/*
+/ai/mnt/code/detrex/wandb_output/*
+*.pyt
+*.jpg
+*.png
+*.pth
+*.yaml
+dab_detr_r50_50ep.pth
+ouput_dirs/dino_internimage_base_4scale_12ep_stenosis_binary/events.out.tfevents.1686826417.ai.820995.0
+*wandb*
+*events*
+*ouput_dirs*
